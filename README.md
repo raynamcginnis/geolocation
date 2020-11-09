@@ -1,6 +1,22 @@
-# Getting Started with Create React App
+# Overview
+This application uses geolocation to determine a user's latitude. The user's latitude and the current month is used to determine if it's "Summer" or "Winter" where they are located, then a seasonal display is generated based on that information. This application includes a loading display, summer display and winter display. 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+https://github.com/raynamcginnis/react-prop-comments/blob/main/src/images/loading.png
+
+https://github.com/raynamcginnis/react-prop-comments/blob/main/src/images/summer.png
+
+https://github.com/raynamcginnis/react-prop-comments/blob/main/src/images/winter.png
+
+# Technologies Used
+- React.js
+- HTML
+- CSS
+- Semantic UI
+
+# Getting Started 
+
+1. Clone this repo using 'git clone https://github.com/raynamcginnis/geolocation.git'
+2. Run the app in your local environment by using 'npm start'
 
 ## Available Scripts
 
