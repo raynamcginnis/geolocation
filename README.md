@@ -1,11 +1,11 @@
 # Overview
 This application uses geolocation to determine a user's latitude. The user's latitude and the current month is used to determine if it's "Summer" or "Winter" where they are located, then a seasonal display is generated based on that information. This application includes a loading display, summer display and winter display. 
 
-![React Props Comment Card](https://github.com/raynamcginnis/react-prop-comments/blob/main/src/images/loading.png)
+![React Props Comment Card](https://github.com/raynamcginnis/geolocation/blob/main/src/images/loading.png)
 
-![React Props Comment Card](https://github.com/raynamcginnis/react-prop-comments/blob/main/src/images/summer.png)
+![React Props Comment Card](https://github.com/raynamcginnis/geolocation/blob/main/src/images/summer.png)
 
-![React Props Comment Card](https://github.com/raynamcginnis/react-prop-comments/blob/main/src/images/winter.png)
+![React Props Comment Card](https://github.com/raynamcginnis/geolocation/blob/main/src/images/winter.png)
 
 # Technologies Used
 - React.js
